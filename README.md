@@ -1,7 +1,7 @@
 # ClientPanel
+  It is an application used to keep track of debt owed by user's clients.
 
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is hosted at [ClientPanel](https://clientpanel-4be3e.firebaseapp.com/).
 
 ## Available Scripts
 
