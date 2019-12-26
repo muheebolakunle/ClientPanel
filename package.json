@@ -3,9 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "classnames": "^2.2.6",
+    "firebase": "^6.3.3",
+    "grpc": "^1.22.2",
+    "history": "^4.9.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-redux": "^7.1.0",
+    "react-redux-firebase": "^3.0.0-alpha.11",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "redux": "^4.0.4",
+    "redux-auth-wrapper": "^2.1.0",
+    "redux-firestore": "^0.8.0"
   },
   "scripts": {
     "start": "react-scripts start",
